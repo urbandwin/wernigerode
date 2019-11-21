@@ -1,5 +1,5 @@
 ## Konzerte
-### 11.12.2019 
+### 11.12.2019
 * https://www.wernigerode-tourismus.de/event/city-dirk-michaelis-zu-weihnachten-2019-1/
 * CITY mit Dirk Michaelis - CandleLight
 * Zeit: 19:30
@@ -13,7 +13,7 @@
 
 ### 12.12.2019
 * https://www.wernigerode-tourismus.de/event/advents-und-weihnachtskonzert/
-* Advents- und Weihnachtskonzert 
+* Advents- und Weihnachtskonzert
 * Zeit: 19:30
 * Oberpfarrkirchhof 12
 
