@@ -1,4 +1,3 @@
-## Konzerte
 ### 11.12.2019
 * https://www.wernigerode-tourismus.de/event/city-dirk-michaelis-zu-weihnachten-2019-1/
 * CITY mit Dirk Michaelis - CandleLight
@@ -88,7 +87,3 @@
 * Orgelmusik zum Jahresausklang
 * Zeit: 21:00
 * Pfarrstraße 24
-
-## Tägliche Führungen
-* https://www.wernigerode-tourismus.de/event/stadtfuehrung-1000-schritte-rund-ums-rathaus/
-* https://www.wernigerode-tourismus.de/event/mit-dem-ranger-einmal-um-die-brockenkuppe-2/
