@@ -1,3 +1,9 @@
+### 9.12.2019
+https://www.wernigerode-tourismus.de/event/hilleborch-fuehrt-durchs-und-ums-rathaus/
+
+### 10.12.2019
+https://www.wernigerode-tourismus.de/event/wernigeroeder-wintermarkt/
+
 ### 11.12.2019
 * https://www.wernigerode-tourismus.de/event/city-dirk-michaelis-zu-weihnachten-2019-1/
 * CITY mit Dirk Michaelis - CandleLight
