@@ -5,4 +5,6 @@ alle Übernachtungsgäste in Wernigerode, die auch den Gästebeitrag (Kurtaxe) b
 
 ## So geht's
 
-Das HATIX besteht aus einem Ticket-Heft mit integriertem Meldeschein. Beides ist das Harzer Urlaubs-Ticket und kann vom Anreise- bis Abreisetag genutzt werden, daher muss der Meldeschein inklusive Anreise- und Abreisedatum ausgefüllt werden. Ticket-Heft und Meldeschein sind bei den Busfahrern vorzuzeigen, damit steht Ihnen der aufgeführte HVB Netzplan zur Verfügung.
+Das HATIX besteht aus einem Ticket-Heft mit integriertem Meldeschein. Beides ist das Harzer Urlaubs-Ticket und kann vom Anreise- bis Abreisetag genutzt werden, daher muss der Meldeschein inklusive Anreise- und Abreisedatum ausgefüllt werden.
+
+Ticket-Heft und Meldeschein sind bei den Busfahrern vorzuzeigen, damit steht Ihnen der aufgeführte HVB Netzplan zur Verfügung.
