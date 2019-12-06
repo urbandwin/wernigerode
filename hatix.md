@@ -9,4 +9,6 @@ Das HATIX besteht aus einem Ticket-Heft mit integriertem Meldeschein. Beides ist
 
 Ticket-Heft und Meldeschein sind bei den Busfahrern vorzuzeigen, damit steht Ihnen der aufgeführte HVB Netzplan zur Verfügung.
 
+Mehr Information über das Hatix bekommen Sie unter wwww.hatix.info
+
 <img class="img-responsive" src="http://misc.topobyte.de/images/1d9cdc1bb055479c9d15e060b0d4fecd.png"/>
